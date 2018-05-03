@@ -2,7 +2,7 @@
 
 You will see Basic but mostly used functionaltiy of PHP 
 
-#1. File Uploading System
+# 1. File Uploading System
 
 You have to give read and wirte permission to the following:
 
@@ -11,4 +11,8 @@ You have to give read and wirte permission to the following:
 
 Run the application and enjoy.
 
-#2. Next Sample Will Uploading Soon :)
+# 2. Next Sample Will Uploading Soon :)
+
+Php QR Code generator using php
+
+
