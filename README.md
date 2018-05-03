@@ -11,8 +11,9 @@ You have to give read and wirte permission to the following:
 
 Run the application and enjoy.
 
-# 2. Next Sample Will Uploading Soon :)
+# 2. Php QR Code Generator
 
 Php QR Code generator using php
 
+# 3. Next Sample Will Uploading Soon :)
 
